@@ -12,6 +12,7 @@ p {
 /* main styles */
 .main {
   margin: 0 auto;
+  max-width: 1200px;
 }
 .adress_link {
   padding-left: 10px;
