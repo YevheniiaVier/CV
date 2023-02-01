@@ -89,7 +89,8 @@ img {
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.2;
+
   color: #545151;
   margin-right: 8px;
 }
@@ -99,7 +100,7 @@ img {
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.2;
   color: #545151;
 }
 .tech_skills_list,
@@ -109,6 +110,8 @@ img {
   color: #545151;
   padding: 0;
   margin-left: 17px;
+  line-height: 24px;
+  line-height: 1.2;
 }
 .tech_skills_item,
 .soft_skills_item,
@@ -223,7 +226,7 @@ img {
 .period {
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 15px;
   color: #a8a8a8;
   margin-bottom: 10px;
@@ -245,14 +248,18 @@ img {
 .work_list_item {
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1.2;
+  margin-bottom: 4px;
   color: #595959;
 }
 .work_list {
-  margin: 5px;
+  margin-bottom: 10px;
 }
 
 .projects_list {
   line-height: 1.2;
+}
+.project_item {
+  margin-bottom: 10px;
 }
