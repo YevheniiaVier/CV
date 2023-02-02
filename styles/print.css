@@ -253,3 +253,7 @@ main {
 .work_position {
   margin-top: 15px;
 }
+
+.project_link {
+  text-decoration: underline;
+}
