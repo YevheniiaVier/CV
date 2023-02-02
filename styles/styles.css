@@ -113,6 +113,7 @@ img {
   margin-left: 17px;
   line-height: 24px;
   line-height: 1.2;
+  margin-bottom: 10px;
 }
 .tech_skills_item,
 .soft_skills_item,
@@ -266,4 +267,7 @@ img {
 }
 .project_item {
   margin-bottom: 10px;
+}
+.project_link {
+  text-decoration: underline;
 }
