@@ -67,6 +67,7 @@ img {
   margin-left: auto;
   margin-right: auto;
   background-color: white;
+  box-shadow: none;
 }
 .title {
   font-style: normal;
