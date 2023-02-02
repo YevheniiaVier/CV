@@ -31,7 +31,7 @@ a {
   font-weight: 700;
   font-size: 16px;
   line-height: 20px;
-  color: #fb6d3a;
+  color: #086b90;
 }
 img {
   display: block;
@@ -118,7 +118,7 @@ img {
 .soft_skills_item,
 .languages_item,
 .interests_list_item {
-  color: #d3511a;
+  color: #086b90;
 }
 .tech_skills_text,
 .soft_skills_text,
@@ -256,6 +256,7 @@ main {
 
 .project_link {
   text-decoration: underline;
+  color: #086b90;
 }
 .achievements {
   color: #000000;
