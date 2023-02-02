@@ -12,7 +12,8 @@ h3,
 h4,
 h5,
 h6,
-p {
+p,
+ul {
   margin: 0;
 }
 .link {
@@ -246,6 +247,7 @@ img {
   color: #000000;
 }
 .work_list_item {
+  margin-top: 0;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -256,7 +258,9 @@ img {
 .work_list {
   margin-bottom: 10px;
 }
-
+.work_position {
+  margin-top: 15px;
+}
 .projects_list {
   line-height: 1.2;
 }
