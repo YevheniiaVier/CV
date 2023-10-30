@@ -158,6 +158,10 @@ img {
   }
   .about_name {
     font-size: 45px;
+    text-align: left;
+  }
+  .header {
+    text-align: left;
   }
   .img_box {
     width: 230px;
@@ -170,6 +174,12 @@ img {
   main {
     gap: 80px;
     padding-left: 80px;
+  }
+  .header {
+    text-align: left;
+  }
+  .about_name {
+    text-align: left;
   }
 }
 
